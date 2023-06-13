@@ -24,6 +24,7 @@ public class IntroToMethods {
        return a+b+c;
    }
   public static int stringAsParametr(String str){
+
        return str.length();
    }
 

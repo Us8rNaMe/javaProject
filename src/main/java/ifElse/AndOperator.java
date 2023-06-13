@@ -1,6 +1,6 @@
 package ifElse;
 
-public class AndOperator {
+public class                    AndOperator {
     public static void main(String[] args) {
 
         if(2<3 && 5<10){

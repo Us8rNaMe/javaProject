@@ -1,0 +1,9 @@
+This is my text file. I want Java to see this text. Good luck!
+second line
+
+This is another text.
+
+The weather is nice. I want to become
+
+
+software tester
